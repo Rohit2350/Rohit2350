@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Gadekar</h1>
-<h3 align="center">From Drawing Designs to Drawing Insights: Navigating the Transition from Mechanical Engineer to Data Analyst</h3>
+<h3 align="center">From Drawing Designs to Drawing Insights: Navigating the Transition to Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2350&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2350" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Data Analysis**
 
 - 👨‍💻 My Portfolio Website [https://rohit2350.github.io/websiteport/](https://rohit2350.github.io/websiteport/)
+
+- 📈📊 My PowerBI Portfolio [https://www.novypro.com/profile_projects/rohitgadekar](https://www.novypro.com/profile_projects/rohitgadekar)
 
 - 📫 How to reach me **rohitgadekar2350@gmail.com**
 
