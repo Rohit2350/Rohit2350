@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Gadekar</h1>
-<h3 align="center">From Pistons to Patterns: Navigating the Transition from Mechanical Engineer to Data Analyst</h3>
+<h3 align="center">From Drawing Designs to Drawing Insights: Navigating the Transition from Mechanical Engineer to Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2350&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2350" /> </p>
 
