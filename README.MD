@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Gadekar</h1>
-<h3 align="center">From Drawing Designs to Drawing Insights: Navigating the Transition to Data Analyst</h3>
+<h3 align="center">Welcome to my GitHub repository! Here, you'll find a showcase of my diverse experiences, projects, and skills in the fields of Machine Learning and Data Analytics. I've cultivated a strong and varied set of skills that will help me leverage data-driven insights for problem-solving and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2350&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2350" /> </p>
 
