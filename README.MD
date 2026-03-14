@@ -1,9 +1,9 @@
-<h1 align="Left">Hi, I'm Rohit Gadekar</h1>
-<h4 align="center">Welcome to my GitHub repo!! </h4>
+<h1 align="Left">👋Hey there,Welcome to my GitHub repo !!</h1>
+<h4 align="Left">Myslef Rohit,  full-time data guy, part-time mechanical engineer. I debug datasets and occasionally real machines.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit2350&label=Profile%20views&color=0e75b6&style=flat" alt="rohit2350" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Analysis**
+- 🌱 Currently a full-time Data Analyst.
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit2350](https://github.com/Rohit2350)
 - 📝 Check out my Portfolio Website [https://rohit2350.github.io/webport/](https://rohit2350.github.io/webport/)
 - 📫 How to reach me **rohitgadekar2350@gmail.com**
@@ -24,15 +24,13 @@
 
 <h3 align="left" style="margin-top: 30px;">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  </a>
+
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
